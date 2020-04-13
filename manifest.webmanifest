@@ -1,10 +1,10 @@
 {
-    "name": "LSG test App",
+    "name": "LSG test FFT",
     "short_name": "LSG",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#2A3443",
-    "description": "LSG sensor testing",
+    "description": "LSG FFT testing",
     "theme_color": "#2A3443",
     "icons": [
       {
