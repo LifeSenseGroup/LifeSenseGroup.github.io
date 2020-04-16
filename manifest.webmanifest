@@ -1,10 +1,10 @@
 {
-    "name": "LSG test FFT",
-    "short_name": "LSG",
+    "name": "LSG PLAN BE",
+    "short_name": "PLAN BE",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#2A3443",
-    "description": "LSG FFT testing",
+    "description": "LSG dashboard",
     "theme_color": "#2A3443",
     "icons": [
       {
