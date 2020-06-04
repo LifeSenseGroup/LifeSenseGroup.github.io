@@ -201,7 +201,7 @@ h4 {
 /*	w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}*/
 
 body{
-  background-color:var(--light-background);
+  background-color: #e6f6f8;
 }
 
 
@@ -333,6 +333,9 @@ body{
 	margin:8px;
   }
 
+  .monospace {
+	font-family: "Lucida Console", Courier, monospace;
+  }
 
 
 

@@ -1,18 +1,18 @@
 self.__precacheManifest = [
   {
-    "revision": "2a921b6f52f301a2be09",
+    "revision": "11291a0741466d5704f5",
     "url": "main.css"
   },
   {
-    "revision": "2a921b6f52f301a2be09",
+    "revision": "11291a0741466d5704f5",
     "url": "bundle.js"
   },
   {
-    "revision": "db8cf4b91366128da29bc7bf3ddcd9f8",
+    "revision": "63864d38aca6f5ed1ca05407a5955f83",
     "url": "index.html"
   },
   {
-    "revision": "f77c26758ecff1d9b487c8e4d6306670",
+    "revision": "9231ff6ae889d9b9e48eb5acec93e85c",
     "url": "styles.css"
   },
   {
@@ -24,12 +24,16 @@ self.__precacheManifest = [
     "url": "manifest.webmanifest"
   },
   {
+    "revision": "e044a63e034bf10304dad73138b8c74b",
+    "url": "vendor/webcomponents-loader.js"
+  },
+  {
     "revision": "894a294495257c3d389efa3e1bd9bde7",
     "url": "vendor/webcomponents-bundle.js"
   },
   {
-    "revision": "e044a63e034bf10304dad73138b8c74b",
-    "url": "vendor/webcomponents-loader.js"
+    "revision": "3a28d79ed7dae933323bcabb6ad3dade",
+    "url": "vendor/bundles/webcomponents-sd-ce-pf.js"
   },
   {
     "revision": "fb2608da8f301832531117b05f4acdb3",
@@ -40,28 +44,28 @@ self.__precacheManifest = [
     "url": "vendor/bundles/webcomponents-sd-ce.js"
   },
   {
-    "revision": "3a28d79ed7dae933323bcabb6ad3dade",
-    "url": "vendor/bundles/webcomponents-sd-ce-pf.js"
-  },
-  {
     "revision": "e2f0b54cb1564b7467ce56bab4945e77",
     "url": "vendor/bundles/webcomponents-sd.js"
+  },
+  {
+    "revision": "bee3e74499f28f1aae40dc0535fbbff8",
+    "url": "img/feet2.png"
   },
   {
     "revision": "028be18872917eee9d192f7ef2c7d354",
     "url": "img/icons/favicon.png"
   },
   {
-    "revision": "0421b4b74aa24572c428a97bc19880eb",
-    "url": "img/icons/icon-144x144.png"
+    "revision": "bee3e74499f28f1aae40dc0535fbbff8",
+    "url": "img/icons/feet2.png"
   },
   {
     "revision": "22cf434c35485a385ee356882fbbacb3",
     "url": "img/icons/icon-192x192.png"
   },
   {
-    "revision": "bee3e74499f28f1aae40dc0535fbbff8",
-    "url": "img/icons/feet2.png"
+    "revision": "0421b4b74aa24572c428a97bc19880eb",
+    "url": "img/icons/icon-144x144.png"
   },
   {
     "revision": "265a4a61a2d0cb79fe2f716e12029a29",
