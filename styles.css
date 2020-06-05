@@ -98,8 +98,8 @@ h4 {
 	border-radius: 15px;
 	padding: 0px;
 	margin-bottom: 16px;
-	max-height: 80vh;
-	min-height: 80vh;
+	max-height: 85vh;
+	min-height: 85vh;
 }
 
 .header-box-chat {
@@ -340,4 +340,13 @@ body{
   }
 
 
+  .w3-row {
+    display: flex;
+}
 
+.w3-container {
+    flex:1;
+}
+.card-dashboard-chat{
+	flex:1;
+}
