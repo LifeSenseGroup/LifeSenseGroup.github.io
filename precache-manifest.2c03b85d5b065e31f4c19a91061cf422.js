@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "953ae46535bbb342ba42",
+    "revision": "fde6bba3f6531ccc2d98",
     "url": "main.css"
   },
   {
-    "revision": "953ae46535bbb342ba42",
+    "revision": "fde6bba3f6531ccc2d98",
     "url": "bundle.js"
   },
   {
@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "manifest.webmanifest"
   },
   {
-    "revision": "894a294495257c3d389efa3e1bd9bde7",
-    "url": "vendor/webcomponents-bundle.js"
-  },
-  {
     "revision": "e044a63e034bf10304dad73138b8c74b",
     "url": "vendor/webcomponents-loader.js"
   },
   {
-    "revision": "3a28d79ed7dae933323bcabb6ad3dade",
-    "url": "vendor/bundles/webcomponents-sd-ce-pf.js"
+    "revision": "894a294495257c3d389efa3e1bd9bde7",
+    "url": "vendor/webcomponents-bundle.js"
   },
   {
     "revision": "fb2608da8f301832531117b05f4acdb3",
     "url": "vendor/bundles/webcomponents-ce.js"
+  },
+  {
+    "revision": "3a28d79ed7dae933323bcabb6ad3dade",
+    "url": "vendor/bundles/webcomponents-sd-ce-pf.js"
   },
   {
     "revision": "d0c0741d9f0612fcaf6589ba17a78bd8",
@@ -49,30 +49,30 @@ self.__precacheManifest = [
   },
   {
     "revision": "bee3e74499f28f1aae40dc0535fbbff8",
-    "url": "img/feet2.png"
+    "url": "img/icons/feet2.png"
   },
   {
     "revision": "028be18872917eee9d192f7ef2c7d354",
     "url": "img/icons/favicon.png"
   },
   {
-    "revision": "22cf434c35485a385ee356882fbbacb3",
-    "url": "img/icons/icon-192x192.png"
-  },
-  {
     "revision": "bee3e74499f28f1aae40dc0535fbbff8",
-    "url": "img/icons/feet2.png"
+    "url": "img/feet2.png"
   },
   {
     "revision": "0421b4b74aa24572c428a97bc19880eb",
     "url": "img/icons/icon-144x144.png"
   },
   {
-    "revision": "f1959fd93f05d666e61b71aa2c2d3ac2",
-    "url": "img/logo_plan_be.png"
+    "revision": "22cf434c35485a385ee356882fbbacb3",
+    "url": "img/icons/icon-192x192.png"
   },
   {
     "revision": "265a4a61a2d0cb79fe2f716e12029a29",
     "url": "img/icons/icon-512x512.png"
+  },
+  {
+    "revision": "f1959fd93f05d666e61b71aa2c2d3ac2",
+    "url": "img/logo_plan_be.png"
   }
 ];
