@@ -17,7 +17,7 @@ html {
 
 h1 {
 	color:var(--lsg-blue);
-	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", "Arial";
 	font-size: 36px;
 	font-weight:400;
 	margin:0px 0px 0px 0px;
@@ -25,7 +25,7 @@ h1 {
 
 h2 {
 	color:var(--lsg-blue);
-	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", "Arial";
 	text-transform: uppercase;
 	font-weight:900;
 	font-size: 30px;
@@ -34,7 +34,7 @@ h2 {
 
 h3 {
 	color:var(--dark-grey);
-	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", "Arial";
 	font-size: 20px;
 	font-weight:400;
 	margin:8px 0px 0px 0px;
@@ -43,7 +43,7 @@ h3 {
 
 h4 {
 	color:var(--dark-grey);
-	font-family: "Helvetica Neue";
+	font-family: "Helvetica Neue", "Arial";
 	font-size: 16px;
 	margin:0px 8px 0px;
 	font-weight: 200;
@@ -51,7 +51,7 @@ h4 {
 
 .h-week-selection {
 	color:var(--lsg-blue);
-	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", "Arial";
 	font-size: 20px;
 	font-weight:400;
 	margin:10px;
@@ -82,8 +82,6 @@ h4 {
 	box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 	background-color: var(--base-color);
 	border-radius: 15px;
-	border-bottom-left-radius: 45px;
-	border-bottom-right-radius: 45px;
 	padding: 0px;
 	margin-bottom: 16px;
 	max-height: 85vh;
@@ -98,8 +96,8 @@ h4 {
 	border-radius: 15px;
 	padding: 0px;
 	margin-bottom: 16px;
-	max-height: 85vh;
-	min-height: 85vh;
+	max-height: 80vh;
+	min-height: 80vh;
 }
 
 .header-box-chat {
@@ -111,13 +109,15 @@ h4 {
 }
 
 .footer-box-chat {
-	background-image: linear-gradient(to right, rgb(250, 249, 249) 0%, #FFFFFF 100%);
-	border-bottom-left-radius: 45px;
-	border-bottom-right-radius: 45px;
-	padding: 16px ;
+	background-image: linear-gradient(to right, #E5E5E5 0%, #FFFFFF 100%);
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	padding: 16px 1vw 16px;
 	position: absolute;
-	bottom:0;
-	/* margin-bottom: 16px; */
+	width: 100%;
+	bottom:0; 
+
+
 }
 
 .chat{
@@ -142,7 +142,8 @@ h4 {
 	text-decoration: none;
 	display: inline;
 	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
-	font-size: 16px;
+	/* font-size: 16px; */
+	font-size: 1.1vw;
 	/* font-size: 1vw; */
 	margin-bottom: 8px;
 	margin-right: 0.5%;
@@ -179,11 +180,12 @@ h4 {
 
 .form-inline {  
 	display: flex;
-	flex-flow: row wrap;
+	flex-flow: row;
 	align-items: center;
   }
   
   .form-inline input {
+	width: 15vw;
 	vertical-align: middle;
 	margin: 5px 10px 5px 0;
 	padding: 10px;
@@ -192,8 +194,10 @@ h4 {
   }
 
   .form-inline button {
-	padding: 10px 20px;
-	border: 1px solid #ddd;
+	padding: 10px 10px;
+	border-radius: 8px;
+	border: 2px solid var(--lsg-blue);
+	/* border: 1px solid #ddd; */
 	color: var(--lsg-blue) ;
 	cursor: pointer;
 	float: right;
@@ -203,7 +207,7 @@ h4 {
 /*	w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}*/
 
 body{
-  background-color: #e6f6f8;
+  background-color:var(--light-background);
 }
 
 
@@ -318,7 +322,7 @@ body{
 	min-width:23vw;
 	min-height:50px;
 	margin: 0px;
-	box-sizing: border-box;
+	/* box-sizing: border-box; */
 	border-radius: 2px;
 	padding: 0;
 	/* border: 1px solid grey; */
@@ -335,18 +339,6 @@ body{
 	margin:8px;
   }
 
-  .monospace {
-	font-family: "Lucida Console", Courier, monospace;
-  }
 
 
-  .w3-row {
-    display: flex;
-}
 
-.w3-container {
-    flex:1;
-}
-.card-dashboard-chat{
-	flex:1;
-}
