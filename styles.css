@@ -451,9 +451,11 @@ body{
   }
 
   video {
-	width:95%;
-	min-height:50px;
-	margin: 0px;
+
+    display: inline;
+	width:50px;
+	height:32px;
+	margin-left: 4px;
 	border-radius: 2px;
 	padding: 0;
   }
@@ -461,11 +463,13 @@ body{
   /* The popup chat - hidden by default */
 .video-chat-popup {
 	display: none;
-	position: absolute;
 	background-color: white;
 	/* bottom: 15vh; */
-	z-index: 9;
 	margin:8px;
+	width: 120px;
+	height:32px;
+	border-radius: 4px;
+
   }
 
 
@@ -501,6 +505,19 @@ body{
   overflow: auto;
   scroll-behavior: auto;
 }
+
+.containerColumn {
+	display: flex;
+  }
+  .item1 {
+	width: 50%;
+	flex-grow: 1;
+  }
+
+  .item2 {
+	width: 50%;
+	flex-grow: 1;
+  }
 
 
 
