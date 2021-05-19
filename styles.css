@@ -353,7 +353,7 @@ body{
 	justify-content: center;
 	margin: 0;
 	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-	font-size:calc(8px + 0.5vw);
+	font-size:calc(10px + 0.35vw);
 	line-height: calc(10px + 0.5vw);
 	/* overflow: scroll; */
 	/* overflow: auto; */
@@ -450,28 +450,28 @@ body{
 	cursor: pointer;
   }
 
+  
   video {
-
-    display: inline;
-	width:50px;
-	height:32px;
-	margin-left: 4px;
+	width: calc(100% - 16px);
+	min-height:10px;
+	margin: 0px;
 	border-radius: 2px;
 	padding: 0;
-  }
+		/* box-shadow: 3px 3px 5px black; */
 
+  }
   /* The popup chat - hidden by default */
-.video-chat-popup {
+
+  .video-chat-popup {
 	display: none;
-	background-color: white;
+	position: absolute;
+	align-content: center;
+	/* background-color: white; */
 	/* bottom: 15vh; */
-	margin:8px;
-	width: 120px;
-	height:32px;
-	border-radius: 4px;
-
+	z-index: 9;
+	/* margin:8px; */
+	/* padding: 8px; */
   }
-
 
 .wrapper-chat {
   height: 100%;
