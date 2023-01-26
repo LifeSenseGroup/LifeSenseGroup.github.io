@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset='utf-8'>
+	<meta name="viewport" content="width=device-width, user-scalable=no" />
+</head>
+
+
+
+
+<style>
+	*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.wrapper {
+  display: grid;
+  border-style: solid;
+  border-color: red;
+  /* use min/max value so it never grows larger */
+  grid-template-columns: minmax(0, 1fr) 4fr minmax(0, 1fr);
+  /* 2px is for the 2px wide borther */
+  grid-template-rows: minmax(0,1fr) 2px 5fr 2fr 4fr 1fr 2fr ;
+
+
+  grid-gap: 1px;
+  width: 100vw;
+  height: 100vh;
+}
+
+.row-border{
+    border-top: 2px solid gray;
+    grid-column: 1 / 4; /* this code makes the row stretch to entire width of the container */
+}
+
+img{
+     
+	 display: block;
+	 height: 100%;
+	 width: 100%;
+	 max-height: 10 px;
+  
+   }
+   
+
+</style>
+
+<body>
+  <!--  <div id='main screen' class="main_screen"> -->
+
+
+<div class="wrapper">
+	<div class="one">
+		<img src = "QuestionMark.svg" alt="question icon"/>
+	</div>
+	<div class="two ">
+    two
+  </div>
+
+	<div class="three">
+    <img src = "sensorIcon.svg" alt="sensor icon"/>
+  </div>
+	<div class="row-border"></div>
+	<div class="four">Four</div>
+  <div class="five ">
+    <img src = "gold medal.svg" alt=" logo"/>
+  </div>
+  <div class="six">Nine</div>
+  <div class="six">Ten</div>
+  <div class="six"> Test Text </div>
+
+  <div class="six">11</div>
+  <div class="six">12</div>
+  <div class="six">13</div>
+  <div class="six">14</div>
+  <div class="six">15</div>
+  <div class="six">16</div>
+  <div class="six">17</div>
+  <div class="six">18</div>
+</div>
+
+<!-- </div> -->
+
+</body>
+</html>
