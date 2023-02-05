@@ -1,8 +1,8 @@
-.svelte-8uoi8g{box-sizing:border-box;padding:0;margin:0}.wrapper.svelte-8uoi8g{display:grid;text-align:center;border-style:solid;border-color:red;grid-template-columns:minmax(0, 1fr) minmax(0,4fr) minmax(0, 1fr);grid-template-rows:minmax(0,1fr) 2px minmax(0,5fr) minmax(0,2fr) minmax(0,4fr) minmax(0,1fr) minmax(0,2fr) ;grid-gap:1px;width:100vw;height:100vh}.wrapper2.svelte-8uoi8g{display:grid;text-align:center;grid-template-columns:minmax(0, 1fr) minmax(0,1fr);grid-template-rows:minmax(0,1fr)  minmax(0,1fr)  ;grid-gap:1px;width:100%;height:100%}.row-border.svelte-8uoi8g{border-top:2px solid gray;grid-column:1 / 4}img.svelte-8uoi8g{display:block;height:100%;width:100%;max-height:10 px}.one.svelte-8uoi8g{display:block;margin-left:auto;margin-right:auto;width:50%}.wrap.svelte-8uoi8g{height:100%;display:flex;align-items:center;justify-content:center}.button.svelte-8uoi8g{width:140px;height:45px;font-family:'Roboto', sans-serif;font-size:11px;text-transform:uppercase;letter-spacing:2.5px;font-weight:500;color:#000;border:none;border-radius:45px;box-shadow:0px 8px 15px rgba(0, 0, 0, 0.1);transition:all 0.3s ease 0s;cursor:pointer;outline:none}.button.svelte-8uoi8g:hover{background-color:#9d8ac7;color:#fff;transform:translateY(-7px)}.svelte-19xh11p{box-sizing:border-box;padding:0;margin:0}.wrapper.svelte-19xh11p{display:grid;text-align:center;border-style:solid;border-color:red;grid-template-columns:minmax(0, 1fr) minmax(0,16fr) minmax(0, 1fr);grid-template-rows:minmax(0,1fr) 2px minmax(0,10fr) ;grid-gap:1px;width:100vw;height:100vh}.row-border.svelte-19xh11p{border-top:2px solid gray;grid-column:1 / 4}img.svelte-19xh11p{display:block;height:100%;width:100%}.grid-item-centered-contents.svelte-19xh11p{position:relative;text-align:center}span.svelte-19xh11p{position:absolute;left:50%;top:50%;transform:translate(-50%, -50%)}:root{--custom-height_number_input:9vh}img.svelte-13n658{display:block;height:15vh;width:15vh}.center.svelte-13n658{display:block;margin-left:auto;margin-right:auto;margin-top:5%;width:50%}.extraWide.svelte-13n658{width:30%}.txt.svelte-13n658{text-align:center;font-size:2vh;color:#7e6779}button.svelte-13n658{margin:auto;margin-top:5vh;background-color:#7e6779;border:none;color:white;text-align:center;text-decoration:none;display:block;font-size:4vh;width:50vw;height:10vh;border-radius:9px}.row.svelte-13n658{display:flex;justify-content:center;border:none}.columnImage.svelte-13n658{flex-grow:0;flex-shrink:0;flex-basis:25%;border:none;justify-content:center}body.svelte-13n658{background-color:#f2f2f2}body{margin:0;padding:0;background-color:#263238}@keyframes svelte-eks29t-confetti-slow{0%{transform:translate3d(0, 0, 0) rotateX(0) rotateY(0)}100%{transform:translate3d(25px, 105vh, 0) rotateX(360deg) rotateY(180deg)}}@keyframes svelte-eks29t-confetti-medium{0%{transform:translate3d(0, 0, 0) rotateX(0) rotateY(0)}100%{transform:translate3d(100px, 105vh, 0) rotateX(100deg) rotateY(360deg)}}@keyframes svelte-eks29t-confetti-fast{0%{transform:translate3d(0, 0, 0) rotateX(0) rotateY(0)}100%{transform:translate3d(-50px, 105vh, 0) rotateX(10deg) rotateY(250deg)}}.confetti-container{perspective:700px;position:absolute;overflow:hidden;top:0;right:0;bottom:0;left:0}.confetti{position:absolute;z-index:1;top:-10px;border-radius:0}.confetti--animation-slow{animation:svelte-eks29t-confetti-slow 3s linear 1 forwards}.confetti--animation-medium{animation:svelte-eks29t-confetti-medium 5s linear 5 forwards}.confetti--animation-fast{animation:svelte-eks29t-confetti-fast 5s linear 1 forwards}h1.svelte-eks29t{font-family:Futura PT;font-size:28px;color:#675B64;margin:19px auto;text-align:center;width:68%}h2.svelte-eks29t{text-align:center;font-family:Futura PT;font-size:20px;color:#675B64}.imageContainer.svelte-eks29t{display:flex;justify-content:center}button.svelte-eks29t{margin:auto;margin-top:5vh;background-color:#7e6779;border:none;color:white;text-align:center;text-decoration:none;display:block;font-size:4vh;width:50vw;height:10vh;border-radius:9px}.container.svelte-13orpi4{background-color:grey;display:grid;grid-template-columns:minmax(0,0.2fr) minmax(0,2.6fr) minmax(0,0.2fr);grid-template-rows:minmax(0,0.3fr) minmax(0,1.7fr) minmax(0,1fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:"CarinLogo Sliders CancelPicture"
+:root{--custom-height_number_input:9vh}img.svelte-13n658{display:block;height:15vh;width:15vh}.center.svelte-13n658{display:block;margin-left:auto;margin-right:auto;margin-top:5%;width:50%}.extraWide.svelte-13n658{width:30%}.txt.svelte-13n658{text-align:center;font-size:2vh;color:#7e6779}button.svelte-13n658{margin:auto;margin-top:5vh;background-color:#7e6779;border:none;color:white;text-align:center;text-decoration:none;display:block;font-size:4vh;width:50vw;height:10vh;border-radius:9px}.row.svelte-13n658{display:flex;justify-content:center;border:none}.columnImage.svelte-13n658{flex-grow:0;flex-shrink:0;flex-basis:25%;border:none;justify-content:center}body.svelte-13n658{background-color:#f2f2f2}.svelte-8uoi8g{box-sizing:border-box;padding:0;margin:0}.wrapper.svelte-8uoi8g{display:grid;text-align:center;border-style:solid;border-color:red;grid-template-columns:minmax(0, 1fr) minmax(0,4fr) minmax(0, 1fr);grid-template-rows:minmax(0,1fr) 2px minmax(0,5fr) minmax(0,2fr) minmax(0,4fr) minmax(0,1fr) minmax(0,2fr) ;grid-gap:1px;width:100vw;height:100vh}.wrapper2.svelte-8uoi8g{display:grid;text-align:center;grid-template-columns:minmax(0, 1fr) minmax(0,1fr);grid-template-rows:minmax(0,1fr)  minmax(0,1fr)  ;grid-gap:1px;width:100%;height:100%}.row-border.svelte-8uoi8g{border-top:2px solid gray;grid-column:1 / 4}img.svelte-8uoi8g{display:block;height:100%;width:100%;max-height:10 px}.one.svelte-8uoi8g{display:block;margin-left:auto;margin-right:auto;width:50%}.wrap.svelte-8uoi8g{height:100%;display:flex;align-items:center;justify-content:center}.button.svelte-8uoi8g{width:140px;height:45px;font-family:'Roboto', sans-serif;font-size:11px;text-transform:uppercase;letter-spacing:2.5px;font-weight:500;color:#000;border:none;border-radius:45px;box-shadow:0px 8px 15px rgba(0, 0, 0, 0.1);transition:all 0.3s ease 0s;cursor:pointer;outline:none}.button.svelte-8uoi8g:hover{background-color:#9d8ac7;color:#fff;transform:translateY(-7px)}.svelte-19xh11p{box-sizing:border-box;padding:0;margin:0}.wrapper.svelte-19xh11p{display:grid;text-align:center;border-style:solid;border-color:red;grid-template-columns:minmax(0, 1fr) minmax(0,16fr) minmax(0, 1fr);grid-template-rows:minmax(0,1fr) 2px minmax(0,10fr) ;grid-gap:1px;width:100vw;height:100vh}.row-border.svelte-19xh11p{border-top:2px solid gray;grid-column:1 / 4}img.svelte-19xh11p{display:block;height:100%;width:100%}.grid-item-centered-contents.svelte-19xh11p{position:relative;text-align:center}span.svelte-19xh11p{position:absolute;left:50%;top:50%;transform:translate(-50%, -50%)}body{margin:0;padding:0;background-color:#263238}@keyframes svelte-eks29t-confetti-slow{0%{transform:translate3d(0, 0, 0) rotateX(0) rotateY(0)}100%{transform:translate3d(25px, 105vh, 0) rotateX(360deg) rotateY(180deg)}}@keyframes svelte-eks29t-confetti-medium{0%{transform:translate3d(0, 0, 0) rotateX(0) rotateY(0)}100%{transform:translate3d(100px, 105vh, 0) rotateX(100deg) rotateY(360deg)}}@keyframes svelte-eks29t-confetti-fast{0%{transform:translate3d(0, 0, 0) rotateX(0) rotateY(0)}100%{transform:translate3d(-50px, 105vh, 0) rotateX(10deg) rotateY(250deg)}}.confetti-container{perspective:700px;position:absolute;overflow:hidden;top:0;right:0;bottom:0;left:0}.confetti{position:absolute;z-index:1;top:-10px;border-radius:0}.confetti--animation-slow{animation:svelte-eks29t-confetti-slow 3s linear 1 forwards}.confetti--animation-medium{animation:svelte-eks29t-confetti-medium 5s linear 5 forwards}.confetti--animation-fast{animation:svelte-eks29t-confetti-fast 5s linear 1 forwards}h1.svelte-eks29t{font-family:Futura PT;font-size:28px;color:#675B64;margin:19px auto;text-align:center;width:68%}h2.svelte-eks29t{text-align:center;font-family:Futura PT;font-size:20px;color:#675B64}.imageContainer.svelte-eks29t{display:flex;justify-content:center}button.svelte-eks29t{margin:auto;margin-top:5vh;background-color:#7e6779;border:none;color:white;text-align:center;text-decoration:none;display:block;font-size:4vh;width:50vw;height:10vh;border-radius:9px}.container.svelte-gtjl15{background-color:grey;display:grid;grid-template-columns:minmax(0,0.2fr) minmax(0,2.6fr) minmax(0,0.2fr);grid-template-rows:minmax(0,0.3fr) minmax(0,1.7fr) minmax(0,1fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:"CarinLogo Sliders CancelPicture"
     ". SVGGraph ."
-    "StackElementsFlexBox StackElementsFlexBox StackElementsFlexBox"}.CancelPicture.svelte-13orpi4{justify-self:center;align-self:center;grid-area:CancelPicture}.Sliders.svelte-13orpi4{justify-self:center;align-self:center;grid-area:Sliders}.CarinLogo.svelte-13orpi4{justify-self:center;align-self:center;grid-area:CarinLogo}.SVGGraph.svelte-13orpi4{justify-self:center;align-self:center;grid-area:SVGGraph}.StackElementsFlexBox.svelte-13orpi4{align-self:end;grid-area:StackElementsFlexBox}.flex-container.svelte-13orpi4{display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-flex-direction:column-reverse;-ms-flex-direction:column-reverse;flex-direction:column-reverse;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;-webkit-align-content:flex-start;-ms-flex-line-pack:start;align-content:flex-start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start}.flex-item.svelte-13orpi4:nth-child(1){-webkit-order:0;-ms-flex-order:0;order:0;-webkit-flex:0 1 auto;-ms-flex:0 1 auto;flex:0 1 auto;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch}.flex-item.svelte-13orpi4:nth-child(2){-webkit-order:0;-ms-flex-order:0;order:0;-webkit-flex:0 1 auto;-ms-flex:0 1 auto;flex:0 1 auto;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch}.txt{font-family:'Inter';font-style:normal;font-weight:500;font-size:16px}.border.svelte-13orpi4{border:1px solid black}aside.svelte-1yu38ih{left:-100%;transition:left 0.3s ease-in-out
+    "StackElementsFlexBox StackElementsFlexBox StackElementsFlexBox"}.CancelPicture.svelte-gtjl15{justify-self:center;align-self:center;grid-area:CancelPicture}.Sliders.svelte-gtjl15{justify-self:center;align-self:center;grid-area:Sliders}.CarinLogo.svelte-gtjl15{justify-self:center;align-self:center;grid-area:CarinLogo}.SVGGraph.svelte-gtjl15{justify-self:center;align-self:center;grid-area:SVGGraph}.StackElementsFlexBox.svelte-gtjl15{align-self:end;grid-area:StackElementsFlexBox}.flex-container.svelte-gtjl15{display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-flex-direction:column-reverse;-ms-flex-direction:column-reverse;flex-direction:column-reverse;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;-webkit-align-content:flex-start;-ms-flex-line-pack:start;align-content:flex-start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start}.flex-item.svelte-gtjl15:nth-child(1){-webkit-order:0;-ms-flex-order:0;order:0;-webkit-flex:0 1 auto;-ms-flex:0 1 auto;flex:0 1 auto;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch}.flex-item.svelte-gtjl15:nth-child(2){-webkit-order:0;-ms-flex-order:0;order:0;-webkit-flex:0 1 auto;-ms-flex:0 1 auto;flex:0 1 auto;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch}.txt{font-family:'Inter';font-style:normal;font-weight:500;font-size:16px}html, body{height:100%}.border.svelte-gtjl15{border:1px solid black}.scroll.svelte-zq3ihz{display:block;width:100%;height:100px;overflow-y:scroll}.grid-item-centered-contents.svelte-zq3ihz{position:relative;text-align:center}span.svelte-zq3ihz{position:absolute;left:50%;top:50%;transform:translate(-50%, -50%)}article.svelte-zq3ihz{margin:0 0 1em 0;border-style:dotted dashed;border-width:2px;border-color:red}.playing.svelte-zq3ihz{color:#ff3e00}div.svelte-zq3ihz{vertical-align:center;border-style:dotted dashed;border-width:2px;border-color:red}.container.svelte-zq3ihz{display:flex}.item1.svelte-zq3ihz{width:50%;flex-grow:1}.item2.svelte-zq3ihz{width:30%;flex-grow:1}.item3.svelte-zq3ihz{width:20%;flex-grow:1}aside.svelte-1yu38ih{left:-100%;transition:left 0.3s ease-in-out
 	}.open.svelte-1yu38ih{left:0
-	}path.svelte-woijjd{stroke:rgb(51, 51, 54);stroke-width:var(--strokeWidth);fill:none;stroke-linecap:round}.borderRed.svelte-woijjd{border:1px solid red}svg.svelte-woijjd{max-height:100%;max-width:100%}.scroll.svelte-zq3ihz{display:block;width:100%;height:100px;overflow-y:scroll}.grid-item-centered-contents.svelte-zq3ihz{position:relative;text-align:center}span.svelte-zq3ihz{position:absolute;left:50%;top:50%;transform:translate(-50%, -50%)}article.svelte-zq3ihz{margin:0 0 1em 0;border-style:dotted dashed;border-width:2px;border-color:red}.playing.svelte-zq3ihz{color:#ff3e00}div.svelte-zq3ihz{vertical-align:center;border-style:dotted dashed;border-width:2px;border-color:red}.container.svelte-zq3ihz{display:flex}.item1.svelte-zq3ihz{width:50%;flex-grow:1}.item2.svelte-zq3ihz{width:30%;flex-grow:1}.item3.svelte-zq3ihz{width:20%;flex-grow:1}.container.svelte-2b5uvm{background-color:white;display:grid;grid-template-columns:minmax(0, 0.2fr) minmax(0, 1.5fr) minmax(0, 2.6fr) minmax(
+	}path.svelte-woijjd{stroke:rgb(51, 51, 54);stroke-width:var(--strokeWidth);fill:none;stroke-linecap:round}.borderRed.svelte-woijjd{border:1px solid red}svg.svelte-woijjd{max-height:100%;max-width:100%}.container.svelte-2b5uvm{background-color:white;display:grid;grid-template-columns:minmax(0, 0.2fr) minmax(0, 1.5fr) minmax(0, 2.6fr) minmax(
         0,
         0.6fr
       ) minmax(0, 0.1fr);grid-template-rows:minmax(0, 0.2fr) minmax(0, 1.3fr) minmax(0, 1.3fr) minmax(
@@ -11,11 +11,235 @@
       );gap:0px 0px;grid-auto-flow:row;grid-template-areas:". . . . ."
       ". Picture Time . ."
       ". Picture Level Arrow ."
-      ". . . . ."}.Picture.svelte-2b5uvm{justify-self:center;align-self:center;grid-area:Picture}.Time.svelte-2b5uvm{display:grid;grid-template-columns:minmax(0, 0.4fr) minmax(0, 1.6fr);grid-template-rows:minmax(0, 1fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:"StopWatch MinutesText";grid-area:Time}.StopWatch.svelte-2b5uvm{justify-self:center;align-self:center;grid-area:StopWatch}.MinutesText.svelte-2b5uvm{justify-self:start;align-self:center;grid-area:MinutesText}.Level.svelte-2b5uvm{display:grid;grid-template-columns:minmax(0, 0.4fr) minmax(0, 1.6fr);grid-template-rows:minmax(0, 1fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:"LevelPicture LevelText";grid-area:Level}.LevelPicture.svelte-2b5uvm{justify-self:center;align-self:center;grid-area:LevelPicture}.LevelText.svelte-2b5uvm{justify-self:start;align-self:center;grid-area:LevelText}.Arrow.svelte-2b5uvm{justify-self:center;align-self:center;grid-area:Arrow}.center.svelte-2b5uvm{display:flex;justify-content:center;align-items:center}.makeRelative.svelte-2b5uvm{display:inline-block;position:relative}.container.svelte-e90n0d{display:grid;grid-template-columns:minmax(0, 0.2fr) minmax(0, 1.7fr) minmax(0, 0.2fr);grid-template-rows:minmax(0, 0.3fr) minmax(0, 1fr) minmax(0,0.3fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:". . ."
+      ". . . . ."}.Picture.svelte-2b5uvm{justify-self:center;align-self:center;grid-area:Picture}.Time.svelte-2b5uvm{display:grid;grid-template-columns:minmax(0, 0.4fr) minmax(0, 1.6fr);grid-template-rows:minmax(0, 1fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:"StopWatch MinutesText";grid-area:Time}.StopWatch.svelte-2b5uvm{justify-self:center;align-self:center;grid-area:StopWatch}.MinutesText.svelte-2b5uvm{justify-self:start;align-self:center;grid-area:MinutesText}.Level.svelte-2b5uvm{display:grid;grid-template-columns:minmax(0, 0.4fr) minmax(0, 1.6fr);grid-template-rows:minmax(0, 1fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:"LevelPicture LevelText";grid-area:Level}.LevelPicture.svelte-2b5uvm{justify-self:center;align-self:center;grid-area:LevelPicture}.LevelText.svelte-2b5uvm{justify-self:start;align-self:center;grid-area:LevelText}.Arrow.svelte-2b5uvm{justify-self:center;align-self:center;grid-area:Arrow}.center.svelte-2b5uvm{display:flex;justify-content:center;align-items:center}.makeRelative.svelte-2b5uvm{display:inline-block;position:relative}.container.svelte-1kf1mfi{background-color:white;border-radius:15px 15px 0px 0px;border-bottom:medium solid grey;display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,0.5fr);grid-template-rows:minmax(0,1fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:"TrainingName PlayButton"}.TrainingName.svelte-1kf1mfi{justify-self:left;align-self:center;grid-area:TrainingName;margin-left:5%;font-size:30px}.SoundButton.svelte-1kf1mfi{justify-self:center;align-self:center;grid-area:PlayButton}.center.svelte-1kf1mfi{display:flex;justify-content:center;align-items:center}.container.svelte-e90n0d{display:grid;grid-template-columns:minmax(0, 0.2fr) minmax(0, 1.7fr) minmax(0, 0.2fr);grid-template-rows:minmax(0, 0.3fr) minmax(0, 1fr) minmax(0,0.3fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:". . ."
     ". RoundingBox ."
     ". . ."}.RoundingBox.svelte-e90n0d{background-color:rgb(49, 48, 48);color:white;border-radius:15px 15px 15px 15px;display:grid;grid-template-columns:minmax(0, 0.15fr) minmax(0, 0.2fr) minmax(0, 1.4fr);grid-template-rows:minmax(0, 0.2fr) minmax(0, 1.7fr) minmax(0,0.5fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:". . ."
     "PlayButton Time TrainingTxt"
-    "ProgressBar ProgressBar ProgressBar";grid-area:RoundingBox}.PlayButton.svelte-e90n0d{justify-self:start;align-self:center;grid-area:PlayButton}.Time.svelte-e90n0d{justify-self:start;align-self:center;grid-area:Time}.TrainingTxt.svelte-e90n0d{justify-self:start;align-self:center;grid-area:TrainingTxt}.ProgressBar.svelte-e90n0d{justify-self:start;align-self:center;grid-area:ProgressBar}.centerLeft.svelte-e90n0d{display:flex;justify-content:left;align-items:center}.center.svelte-e90n0d{display:flex;justify-content:center;align-items:center}.rounded.svelte-e90n0d{border-radius:10px}#Bar.svelte-e90n0d{height:90%;background-color:hsl(100, 25%, 95%);border:1px solid #333}/* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
+    "ProgressBar ProgressBar ProgressBar";grid-area:RoundingBox}.PlayButton.svelte-e90n0d{justify-self:start;align-self:center;grid-area:PlayButton}.Time.svelte-e90n0d{justify-self:start;align-self:center;grid-area:Time}.TrainingTxt.svelte-e90n0d{justify-self:start;align-self:center;grid-area:TrainingTxt}.ProgressBar.svelte-e90n0d{justify-self:start;align-self:center;grid-area:ProgressBar}.centerLeft.svelte-e90n0d{display:flex;justify-content:left;align-items:center}.center.svelte-e90n0d{display:flex;justify-content:center;align-items:center}.rounded.svelte-e90n0d{border-radius:10px}#Bar.svelte-e90n0d{height:90%;background-color:hsl(100, 25%, 95%);border:1px solid #333} /* some defines tobe used in different classes so we always have the same values */
+
+
+/* css settings for the jump and squad images */
+div.images {
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: contain;
+ height: 14vh;
+ width: 25vh;
+}
+/* images are included via URL in the stylesheet
+*/
+div.img1 {
+
+ border-radius: 10px;
+
+ }
+
+div.img2 {
+
+ border-radius: 10px;
+
+}
+
+/* activity selection images */ 
+img{
+  display: block;
+  height: 14vh;
+  width: 18vh;
+
+}
+
+
+/* when scrolling is not needed anymore  enable next line */
+html, body {margin: 0; height: 100%; overflow: hidden} 
+
+/* center is used to center the text and other block elements */
+.center {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 1%;
+ width: 50%;
+}
+
+.extraWide {
+
+ width: 80%;
+}
+
+.txt{
+ text-align: center;
+ font-size: 2vh;
+ color:
+#7e6779;
+ 
+ 
+}
+
+.txtBig{
+ text-align: center;
+ font-size: 3vh;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ color:
+#7e6779;
+ 
+}
+
+/* settings for the continue button */
+
+
+/* to display the activity images next to eachother we use a flexbox            */
+/* see: https://www.quackit.com/css/flexbox/tutorial/  for more details how to  */ 
+/* use a flexbox                                                                */
+
+.row {
+ display: flex;
+ justify-content: space-between;
+}
+
+.columnImage {
+ flex-grow: 0; 
+ flex-shrink: 0; 
+ flex-basis: 45%;
+ 
+ border: 2px solid grey;
+}
+
+/* number input settings */
+
+/* we use a normal number input but wit the apearance of a textfield */
+input[type="number"] {
+ -webkit-appearance: textfield;
+ -moz-appearance: textfield;
+ appearance: textfield;
+ color:
+#7e6779;
+ 
+}
+
+/* disable the normal spinner of the web browser (we are going to make customs) */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+ -webkit-appearance: none;
+ color:
+#7e6779;
+ 
+}
+
+.number-input {
+ border: 2px solid #ddd;
+ display: inline-flex;
+ border-radius: 25px;
+ color:
+#7e6779;
+ 
+ 
+}
+
+.number-input,
+.number-input * {
+ box-sizing: border-box;
+ color:
+#7e6779;
+ 
+}
+
+.number-input button {
+ outline:none;
+ -webkit-appearance: none;
+ background-color: transparent;
+ border: none;
+ align-items: center;
+ justify-content: center;
+ width: 3rem;
+ height: var(--custom-height_number_input);
+ cursor: pointer;
+ margin: 0;
+ position: relative;
+ color:
+#7e6779;
+ 
+}
+
+/* make the custom part before and after the input box */
+.number-input button:before,
+.number-input button:after {
+ display: inline-block;
+ position: absolute;
+ content: '';
+ width: 1rem;
+ height: 2px;   /* the thickness of the + and - sign */
+ background-color: #212121;
+ transform: translate(-50%, -50%);
+ color:
+#7e6779;
+ 
+}
+.number-input button.plus:after {
+ transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.number-input input[type=number] {
+ font-family: sans-serif;
+ max-width: 5rem;
+ padding: .5rem;
+ border: solid #ddd;
+ border-width: 0 2px;
+ font-size: 2rem;  /* font size of the number */
+ height: var(--custom-height_number_input);
+ font-weight: bold;
+ text-align: center;
+ color:
+#7e6779;
+ 
+}
+
+/* to make the custom number input centered */
+.centeredInput {
+ height:var(--custom-height_number_input); 
+ /* absolute means it will still scroll with the screen but it does not 
+     take any space for its own, so it is ignored by all other elements 
+     see:  https://www.w3schools.com/css/css_positioning.asp  */
+ position: absolute;
+ left: 50%;  /* base position is in the middle */
+ /* transform to make it always in the middle 
+    left 50% means that the element (for example picture) begins at 50% so if it is a wide element 
+    it will never be exaclty in the middle but always shifted to the right.
+    Transform translate will put it 50% of the element size up and 50% to the left. 
+    see : https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+ */
+ transform: translate(-50%, -50%);   
+}
+
+button {
+   margin: auto;
+
+ background-color: #7e6779; 
+ border: none;
+ color: white;
+ text-align: center;
+ text-decoration: none;
+ display: block;
+ font-size: 4vh;
+ width : 50vw;
+ height: 10vh;
+ border-radius: 9px;
+}
+
+
+body {
+   background-color: #f2f2f2;
+}
+
+/* because the input does not take up any space anymore we have to add space in
+  the HTML, we use a normal block div with the height of the number input */
+.takeupSpaceForNumberInput{
+ display:block;
+ height: var(--custom-height_number_input);
+ color:
+#7e6779;
+ 
+}
+/* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
@@ -249,231 +473,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-border-light-grey,.w3-hover-border-light-grey:hover,.w3-border-light-gray,.w3-hover-border-light-gray:hover{border-color:#f1f1f1!important}
 .w3-border-dark-grey,.w3-hover-border-dark-grey:hover,.w3-border-dark-gray,.w3-hover-border-dark-gray:hover{border-color:#616161!important}
 .w3-border-pale-red,.w3-hover-border-pale-red:hover{border-color:#ffe7e7!important}.w3-border-pale-green,.w3-hover-border-pale-green:hover{border-color:#e7ffe7!important}
-.w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}.container.svelte-1kf1mfi{background-color:white;border-radius:15px 15px 0px 0px;border-bottom:medium solid grey;display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,0.5fr);grid-template-rows:minmax(0,1fr);gap:0px 0px;grid-auto-flow:row;grid-template-areas:"TrainingName PlayButton"}.TrainingName.svelte-1kf1mfi{justify-self:left;align-self:center;grid-area:TrainingName;margin-left:5%;font-size:30px}.SoundButton.svelte-1kf1mfi{justify-self:center;align-self:center;grid-area:PlayButton}.center.svelte-1kf1mfi{display:flex;justify-content:center;align-items:center} /* some defines tobe used in different classes so we always have the same values */
-
-
-/* css settings for the jump and squad images */
-div.images {
- background-position: center center;
- background-repeat: no-repeat;
- background-size: contain;
- height: 14vh;
- width: 25vh;
-}
-/* images are included via URL in the stylesheet
-*/
-div.img1 {
-
- border-radius: 10px;
-
- }
-
-div.img2 {
-
- border-radius: 10px;
-
-}
-
-/* activity selection images */ 
-img{
-  display: block;
-  height: 14vh;
-  width: 18vh;
-
-}
-
-
-/* when scrolling is not needed anymore  enable next line */
-html, body {margin: 0; height: 100%; overflow: hidden} 
-
-/* center is used to center the text and other block elements */
-.center {
- display: block;
- margin-left: auto;
- margin-right: auto;
- margin-top: 1%;
- width: 50%;
-}
-
-.extraWide {
-
- width: 80%;
-}
-
-.txt{
- text-align: center;
- font-size: 2vh;
- color:
-#7e6779;
- 
- 
-}
-
-.txtBig{
- text-align: center;
- font-size: 3vh;
- font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
- color:
-#7e6779;
- 
-}
-
-/* settings for the continue button */
-
-
-/* to display the activity images next to eachother we use a flexbox            */
-/* see: https://www.quackit.com/css/flexbox/tutorial/  for more details how to  */ 
-/* use a flexbox                                                                */
-
-.row {
- display: flex;
- justify-content: space-between;
-}
-
-.columnImage {
- flex-grow: 0; 
- flex-shrink: 0; 
- flex-basis: 45%;
- 
- border: 2px solid grey;
-}
-
-/* number input settings */
-
-/* we use a normal number input but wit the apearance of a textfield */
-input[type="number"] {
- -webkit-appearance: textfield;
- -moz-appearance: textfield;
- appearance: textfield;
- color:
-#7e6779;
- 
-}
-
-/* disable the normal spinner of the web browser (we are going to make customs) */
-input[type=number]::-webkit-inner-spin-button,
-input[type=number]::-webkit-outer-spin-button {
- -webkit-appearance: none;
- color:
-#7e6779;
- 
-}
-
-.number-input {
- border: 2px solid #ddd;
- display: inline-flex;
- border-radius: 25px;
- color:
-#7e6779;
- 
- 
-}
-
-.number-input,
-.number-input * {
- box-sizing: border-box;
- color:
-#7e6779;
- 
-}
-
-.number-input button {
- outline:none;
- -webkit-appearance: none;
- background-color: transparent;
- border: none;
- align-items: center;
- justify-content: center;
- width: 3rem;
- height: var(--custom-height_number_input);
- cursor: pointer;
- margin: 0;
- position: relative;
- color:
-#7e6779;
- 
-}
-
-/* make the custom part before and after the input box */
-.number-input button:before,
-.number-input button:after {
- display: inline-block;
- position: absolute;
- content: '';
- width: 1rem;
- height: 2px;   /* the thickness of the + and - sign */
- background-color: #212121;
- transform: translate(-50%, -50%);
- color:
-#7e6779;
- 
-}
-.number-input button.plus:after {
- transform: translate(-50%, -50%) rotate(90deg);
-}
-
-.number-input input[type=number] {
- font-family: sans-serif;
- max-width: 5rem;
- padding: .5rem;
- border: solid #ddd;
- border-width: 0 2px;
- font-size: 2rem;  /* font size of the number */
- height: var(--custom-height_number_input);
- font-weight: bold;
- text-align: center;
- color:
-#7e6779;
- 
-}
-
-/* to make the custom number input centered */
-.centeredInput {
- height:var(--custom-height_number_input); 
- /* absolute means it will still scroll with the screen but it does not 
-     take any space for its own, so it is ignored by all other elements 
-     see:  https://www.w3schools.com/css/css_positioning.asp  */
- position: absolute;
- left: 50%;  /* base position is in the middle */
- /* transform to make it always in the middle 
-    left 50% means that the element (for example picture) begins at 50% so if it is a wide element 
-    it will never be exaclty in the middle but always shifted to the right.
-    Transform translate will put it 50% of the element size up and 50% to the left. 
-    see : https://developer.mozilla.org/en-US/docs/Web/CSS/transform
- */
- transform: translate(-50%, -50%);   
-}
-
-button {
-   margin: auto;
-
- background-color: #7e6779; 
- border: none;
- color: white;
- text-align: center;
- text-decoration: none;
- display: block;
- font-size: 4vh;
- width : 50vw;
- height: 10vh;
- border-radius: 9px;
-}
-
-
-body {
-   background-color: #f2f2f2;
-}
-
-/* because the input does not take up any space anymore we have to add space in
-  the HTML, we use a normal block div with the height of the number input */
-.takeupSpaceForNumberInput{
- display:block;
- height: var(--custom-height_number_input);
- color:
-#7e6779;
- 
-}
-svg.svelte-17yjmog.svelte-17yjmog{min-height:24px;transition:transform 0.3s ease-in-out}svg.svelte-17yjmog line.svelte-17yjmog{stroke:currentColor;stroke-width:3;transition:transform 0.3s ease-in-out
+.w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}svg.svelte-17yjmog.svelte-17yjmog{min-height:24px;transition:transform 0.3s ease-in-out}svg.svelte-17yjmog line.svelte-17yjmog{stroke:currentColor;stroke-width:3;transition:transform 0.3s ease-in-out
 	}button.svelte-17yjmog.svelte-17yjmog{z-index:20}.open.svelte-17yjmog svg.svelte-17yjmog{transform:scale(0.7)
 	}.open.svelte-17yjmog #top.svelte-17yjmog{transform:translate(6px, 0px) rotate(45deg)
 	}.open.svelte-17yjmog #middle.svelte-17yjmog{opacity:0}.open.svelte-17yjmog #bottom.svelte-17yjmog{transform:translate(-12px, 9px) rotate(-45deg)
